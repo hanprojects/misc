@@ -1,3 +1,3 @@
 ## Misc
 
-This repo is dedicated to miscellaneous stuffs (fun stuffs, skills, hackathons, etc.)
+This repo is dedicated to miscellaneous stuffs (fun stuffs, skills, etc.)
